@@ -71,4 +71,10 @@ Lastly I grouped the schools by their type. Removing Thomas High School's ninth 
 Thomas High School is a charter school.The average overall passing rate for charter schools is comparable with Thomas high School's passing rate.
 
 ## Summary
+Here are four changes from removing the ninth grade math and reading scores:
+ - Removing the ninth grade scores decreased the overall passing rate of the school in the district and school summary. 
+ - This decrease in overall passing rate brought it closer to the third ranked school (Ranked by overall pass rate)
+ - The passing percentages for the school summary were considerably affected when I dropped the ninth grade scores. This is because the calculation of the passing percentage took all the students into account but ignored the ninth grade scores. This resulted in very low passing percentages. I fixed this by subtracting the number of ninth grade students from the total number of students.
+ - Removing the ninth grade scores also removed the ninth grade average math and reading scores from the "Math and Reading Scores by Grade" part of my analysis and replaced them with Nan.
 
+ 
