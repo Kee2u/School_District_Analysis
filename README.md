@@ -39,7 +39,7 @@ Here is the new ranking:
 Although the % overall passing rate is slightly lower, the ranking of Thomas High School remains the same. 
 
    - ## Math And Reading Scores by Grade
-Lets compare average scores across grades to see if there is a significant difference with ninth grade scores.
+Let's compare average scores across grades to see if there is a significant difference with ninth grade scores.
 
 Here is Thomas High School's average math scores by grade:
 
@@ -56,6 +56,7 @@ The averages for ninth grade are comparable to the other grades.
 I grouped the schools by their average spending per student. Removing the ninth grade scores for Thomas High School did not affect the averages here. There was a small difference in the $630-644 field but this disappeared once I rounded the values.
 
 <img src ="https://github.com/Kee2u/School_District_Analysis/blob/main/resources/Spending_Ranges.PNG?raw=true" width = "700">
+
 An interesting thing to note is that the average overall passing rate for schools in Thomas High School's bucket is 63%. Compare this to the school's 90% overall passing rate.
 
    - ## Scores by School Size
