@@ -8,20 +8,20 @@ The goal of this project is to analyze school standardized tests scores and fund
    
 A district summary of all of the schools' math and reading scores looks like this:
 
-<img src ="https://github.com/Kee2u/School_District_Analysis/blob/main/resources/Original_District_Analysis.PNG?raw=true" width = "1200">
+<img src ="https://github.com/Kee2u/School_District_Analysis/blob/main/Readme_Images/Original_District_Analysis.PNG?raw=true" width = "1200">
 
 After I removed Thomas High School's ninth grade scores, the district summary changed to this:
 
-<img src ="https://github.com/Kee2u/School_District_Analysis/blob/main/resources/New_District_Analysis.PNG?raw=true" width = "1200">
+<img src ="https://github.com/Kee2u/School_District_Analysis/blob/main/Readme_Images/New_District_Analysis.PNG?raw=true" width = "1200">
 
 We see a slight dip in the overall math and reading scores after I removed the ninth grade data.
 
    - ## School Summary
 Here is the original school summary including all the data:
-<img src ="https://github.com/Kee2u/School_District_Analysis/blob/main/resources/Original_School_Summary.PNG?raw=true" width = "1200">
+<img src ="https://github.com/Kee2u/School_District_Analysis/blob/main/Readme_Images/Original_School_Summary.PNG?raw=true" width = "1200">
 
 Here is the new school summary only excluding Thomas high school's ninth grade data:
-<img src ="https://github.com/Kee2u/School_District_Analysis/blob/main/resources/New_School_Summary.PNG?raw=true" width = "1200">
+<img src ="https://github.com/Kee2u/School_District_Analysis/blob/main/Readme_Images/New_School_Summary.PNG?raw=true" width = "1200">
 
 Just like in the district summary, we see a slight dip in both math and reading scores after I removed the data.
 
@@ -31,10 +31,10 @@ In both summaries, we see that Thomas High School is performing exceptionally we
 A question I can ask is does removing the ninth grade scores change Thomas High School's Ranking compared to other schools?
 
 Here is the original ranking:
-<img src ="https://github.com/Kee2u/School_District_Analysis/blob/main/resources/Original_Top_Five.PNG?raw=true" width = "1200">
+<img src ="https://github.com/Kee2u/School_District_Analysis/blob/main/Readme_Images/Original_Top_Five.PNG?raw=true" width = "1200">
 
 Here is the new ranking:
-<img src ="https://github.com/Kee2u/School_District_Analysis/blob/main/resources/New_Top_Five.PNG?raw=true" width = "1200">
+<img src ="https://github.com/Kee2u/School_District_Analysis/blob/main/Readme_Images/New_Top_Five.PNG?raw=true" width = "1200">
 
 Although the % overall passing rate is slightly lower, the ranking of Thomas High School remains the same. 
 
@@ -43,11 +43,11 @@ Let's compare average scores across grades to see if there is a significant diff
 
 Here is Thomas High School's average math scores by grade:
 
-<img src ="https://github.com/Kee2u/School_District_Analysis/blob/main/resources/Math_grades.PNG?raw=true" width = "300">
+<img src ="https://github.com/Kee2u/School_District_Analysis/blob/main/Readme_Images/Math_grades.PNG?raw=true" width = "300">
 
 Here is Thomas High School's average reading scores by grade:
 
-<img src ="https://github.com/Kee2u/School_District_Analysis/blob/main/resources/Reading_grades.PNG?raw=true" width = "300">
+<img src ="https://github.com/Kee2u/School_District_Analysis/blob/main/Readme_Images/Reading_grades.PNG?raw=true" width = "300">
 
 The averages for ninth grade are comparable to the other grades. 
 (Once I removed the ninth grade scores, the value under "9th" naturally disappeared as well)
@@ -55,19 +55,19 @@ The averages for ninth grade are comparable to the other grades.
    - ## Scores by School Spending
 I grouped the schools by their average spending per student. Removing the ninth grade scores for Thomas High School did not affect the averages here. There was a small difference in the $630-644 field but this disappeared once I rounded the values.
 
-<img src ="https://github.com/Kee2u/School_District_Analysis/blob/main/resources/Spending_Ranges.PNG?raw=true" width = "700">
+<img src ="https://github.com/Kee2u/School_District_Analysis/blob/main/Readme_Images/Spending_Ranges.PNG?raw=true" width = "700">
 
 An interesting thing to note is that the average overall passing rate for schools in Thomas High School's bucket is 63%. Compare this to the school's 90% overall passing rate.
 
    - ## Scores by School Size
 I grouped the schools by their school size. Removing Thomas High School's ninth grade scores did not affect these averages.
-<img src ="https://github.com/Kee2u/School_District_Analysis/blob/main/resources/School_Size.PNG?raw=true" width = "700">
+<img src ="https://github.com/Kee2u/School_District_Analysis/blob/main/Readme_Images/School_Size.PNG?raw=true" width = "700">
 
 Thomas High School is a medium sized high school. The average overall passing rate for medium sized schools is comparable with Thomas high School's passing rate.
 
    - ## Scores by School Type
 Lastly I grouped the schools by their type. Removing Thomas High School's ninth grade scores did not affect these averages.
-<img src ="https://github.com/Kee2u/School_District_Analysis/blob/main/resources/School_Type.PNG?raw=true" width = "700">
+<img src ="https://github.com/Kee2u/School_District_Analysis/blob/main/Readme_Images/School_Type.PNG?raw=true" width = "700">
 
 Thomas High School is a charter school.The average overall passing rate for charter schools is comparable with Thomas high School's passing rate.
 
